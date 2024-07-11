@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CubeKit.UI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CubeKit.UI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
